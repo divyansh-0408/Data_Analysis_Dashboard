@@ -1,6 +1,11 @@
 # Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, The owner of the Vrinda store can understand their customers and grow more sales in 2023 and 2024.
+## Features
+- Data Cleaning: Handling missing values, correcting data types, and filtering out irrelevant information.
+- Exploratory Data Analysis (EDA): Statistical summaries and data visualization to uncover patterns and insights.
+- Visualization: Use of MS Excel and Pivot Tables to create informative and interactive plots.
+- Insights: Identifying key factors that contribute to sales, like channels, months, categories and other external factors.
 ## Questions (KPIs)
 -	Compare the sales and orders using a single chart.
 -	Which channel is contributing maximum to the sales?
