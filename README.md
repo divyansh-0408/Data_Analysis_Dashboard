@@ -7,7 +7,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, The o
 - Visualization: Use of MS Excel and Pivot Tables to create informative and interactive plots.
 - Insights: Identifying key factors that contribute to sales, like channels, months, categories and other external factors.
 ## Dataset Used:
-https://github.com/divyansh-0408/Data_Analysis_Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
+- <a href="https://github.com/divyansh-0408/Data_Analysis_Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset
 ## Questions (KPIs)
 -	Compare the sales and orders using a single chart.
 -	Which channel is contributing maximum to the sales?
